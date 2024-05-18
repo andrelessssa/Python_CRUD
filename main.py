@@ -8,4 +8,4 @@ with st.form(key="include_cliente"):
     input_button_submit = st.form_submit_button("Enviar") 
 
 if input_button_submit:
-    st.write(f"Olá {input_name}, você tem {input_age} anos e é {input_occupation}.")
+    pass
