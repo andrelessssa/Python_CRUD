@@ -1,5 +1,5 @@
 import streamlit as st;
-
+#streamlit run main.py
 
 with st.form(key="include_cliente"):
     input_name = st.text_input(label="Insira Seu nome")
